@@ -1,0 +1,1 @@
+export const CREATE_TABLE_DATA = 'CREATE_TABLE_DATA';
