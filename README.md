@@ -1,7 +1,7 @@
 
 ## A React App that collects inputs from form and display it on a table.
 
-##Technology used
+## Technology used
  - React
  - Redux
  - React hooks(useSelector)
